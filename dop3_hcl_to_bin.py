@@ -91,7 +91,7 @@ if __name__ == "__main__":
     if os.path.exists(inp):
         try:
             convert_hcl_to_bin(inp, outp)
-            print(f"Готово! Файл {outp} создан.")
+            print(f"Файл {outp} создан.")
             run_benchmark(inp, 100)
         except Exception as e:
             print(f"Ошибка: {e}")
