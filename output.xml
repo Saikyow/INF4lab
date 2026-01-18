@@ -1,0 +1,48 @@
+<data>
+  <schedule>
+    <wednesday>
+      <class>
+        <item key="08:10">
+          <subject>English A2 / Английский язык A2</subject>
+          <teacher>Коваленко Наталья Игоревна</teacher>
+          <room>ауд. 3228 ул.Ломоносова, д.9</room>
+          <type>практика</type>
+        </item>
+        <item key="09:50">
+          <subject>English A2 / Английский язык A2</subject>
+          <teacher>Коваленко Наталья Игоревна</teacher>
+          <room>ауд. 3228 ул.Ломоносова, д.9</room>
+          <type>практика</type>
+        </item>
+        <item key="11:30">
+          <subject>Информатика</subject>
+          <teacher>Балакшин Павел Валерьевич</teacher>
+          <room> Ауд. Актовый зал (1216/0 (усл)), ул.Ломоносова, д.9, лит. М</room>
+          <type>лекция</type>
+        </item>
+        <item key="13:30">
+          <subject>Основы профессиональной деятельности</subject>
+          <teacher>Клименков Сергей Викторович</teacher>
+          <room>Ауд. Актовый зал (1216/0 (усл)), ул.Ломоносова, д.9, лит. М</room>
+          <type>лекция</type>
+        </item>
+      </class>
+    </wednesday>
+    <friday>
+      <class>
+        <item key="09:50">
+          <subject>Основы дискретной математики</subject>
+          <teacher>Поляков Владимир Иванович</teacher>
+          <room>ауд. 2337 Кроневрский пр.</room>
+          <type>лекция</type>
+        </item>
+        <item key="11:30">
+          <subject>Основы дискретной математики</subject>
+          <teacher>Поляков Владимир Иванович</teacher>
+          <room>ауд. 2337 Кроневрский пр.</room>
+          <type>практика</type>
+        </item>
+      </class>
+    </friday>
+  </schedule>
+</data>
