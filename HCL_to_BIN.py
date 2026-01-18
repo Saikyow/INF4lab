@@ -209,7 +209,7 @@ def run_benchmark(input_path, iterations=100):
     with open(input_path, "r", encoding="utf-8") as f:
         text = f.read()
 
-    print(f"Запуск замера времени для {iterations} итераций...")
+    print(f"Запуск замера времени для {iterations} итераций")
     
     start_time = time.perf_counter()
     
@@ -240,7 +240,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     try:
-        print(f"Чтение {input_filename}...")
+        print(f"Чтение {input_filename}")
         
         # Конвертация
         binary_data = hcl_to_bin_from_file(input_filename)
